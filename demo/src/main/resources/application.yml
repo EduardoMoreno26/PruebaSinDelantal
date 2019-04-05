@@ -1,0 +1,7 @@
+spotify:
+  username: 031d8aa34d964f9c826b8fca2eb75db6
+  password: cb82ea0c01eb4d91aabb186164709146
+
+openWeather:
+  key: 1154d498221ffab6bda77680c46cac8c
+  url: https://api.openweathermap.org/data/2.5/weather?
