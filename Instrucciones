@@ -1,0 +1,15 @@
+Hola esta es la prueba sinDelantal
+
+Agrego un ejemplo de como invocar los servicios
+
+Servicio por ciudad 
+
+GET
+http://localhost:8080/v1/playlists/cities/Berlin/?country=de
+
+Servicio por Cordenadas
+
+GET
+http://localhost:8080/v1/playlists/coordinates/?latitude=20.68&length=-103.35
+
+Saludos
